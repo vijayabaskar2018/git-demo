@@ -1,1 +1,3 @@
 first line added
+Second line added
+Third line
